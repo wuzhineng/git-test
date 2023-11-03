@@ -1,7 +1,7 @@
 package com.atguigu;
 
-public class GitTest2 {
+public class Test5 {
     public static void main(String[] args) {
-        System.out.println("GitTest2222223333");
+        System.out.println("left");
     }
 }
